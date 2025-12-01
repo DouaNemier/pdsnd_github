@@ -32,3 +32,27 @@ November 2025
 | `.gitignore` | Specifies files to be ignored by Git |
 
 ---
+
+## How to Run the Program
+
+Run the script using:
+
+python bikeshare.py
+
+yaml
+نسخ الكود
+
+Follow the on-screen instructions to filter and explore the dataset.
+
+---
+
+## Project Purpose
+
+This project was created to practice:
+- Git and GitHub workflows  
+- Branching and merging  
+- Writing documentation  
+- Code refactoring  
+- Data analysis with Python  
+
+---
