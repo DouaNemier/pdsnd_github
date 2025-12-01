@@ -56,3 +56,9 @@ This project was created to practice:
 - Data analysis with Python  
 
 ---
+
+
+## Author
+
+Created by **Doua Nemier**  
+Part of the *Udacity Programming for Data Science with Python Nanodegree*.
