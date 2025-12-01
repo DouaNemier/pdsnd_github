@@ -1,18 +1,65 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+># Bikeshare Data Analysis Project
 
-### Date created
-Include the date you created this project and README file.
+This project is part of Udacity's *Programming for Data Science with Python Nanodegree*.
 
-### Project Title
-Replace the Project Title
+The goal of this project is to explore data from three major US bike-share systems:
+- New York City
+- Chicago
+- Washington
 
-### Description
-Describe what your project is about and what it does
+The script `bikeshare.py` allows users to:
+- Filter data by city, month, and day
+- Calculate statistics such as:
+  - Most popular travel times
+  - Most commonly used stations
+  - Trip durations
+  - User demographics
 
-### Files used
-Include the files used
+---
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
- 
- # Final README version - updated
+## 📅 Date Created  
+November 2025
+
+---
+
+
+## Project Files
+
+| File | Description |
+|------|-------------|
+| `bikeshare.py` | Main analysis script |
+| `new_york_city.csv` | Sample dataset for New York City |
+| `.gitignore` | Specifies files to be ignored by Git |
+
+---
+
+
+
+## How to Run the Program
+
+Run the script using:
+
+python bikeshare.py
+
+yaml
+نسخ الكود
+
+Follow the on-screen instructions to filter and explore the dataset.
+
+---
+
+## Project Purpose
+
+This project was created to practice:
+- Git and GitHub workflows  
+- Branching and merging  
+- Writing documentation  
+- Code refactoring  
+- Data analysis with Python  
+
+---
+
+## Author
+
+Created by **Doua Nemier**  
+Part of the *Udacity Programming for Data Science with Python Nanodegree*.
