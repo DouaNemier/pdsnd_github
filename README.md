@@ -1,4 +1,4 @@
-># Bikeshare Data Analysis Project
+# Bikeshare Data Analysis Project
 
 This project is part of Udacity's *Programming for Data Science with Python Nanodegree*.
 
@@ -22,7 +22,6 @@ November 2025
 
 ---
 
-
 ## Project Files
 
 | File | Description |
@@ -33,33 +32,29 @@ November 2025
 
 ---
 
-
-
 ## How to Run the Program
 
 Run the script using:
 
+```bash
 python bikeshare.py
-
-yaml
-نسخ الكود
-
 Follow the on-screen instructions to filter and explore the dataset.
 
----
-
-## Project Purpose
-
+Project Purpose
 This project was created to practice:
-- Git and GitHub workflows  
-- Branching and merging  
-- Writing documentation  
-- Code refactoring  
-- Data analysis with Python  
 
----
+Git and GitHub workflows
 
-## Author
+Branching and merging
 
-Created by **Doua Nemier**  
-Part of the *Udacity Programming for Data Science with Python Nanodegree*.
+Writing documentation
+
+Code refactoring
+
+Data analysis with Python
+
+Author
+Created by Doua Nemier
+Part of the Udacity Programming for Data Science with Python Nanodegree.
+
+
