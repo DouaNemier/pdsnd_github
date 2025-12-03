@@ -27,7 +27,7 @@ November 2025
 | File | Description |
 |------|-------------|
 | `bikeshare.py` | Main analysis script |
-| `new_york_city.csv` | Sample dataset for New York City |
+
 | `.gitignore` | Specifies files to be ignored by Git |
 
 ---
